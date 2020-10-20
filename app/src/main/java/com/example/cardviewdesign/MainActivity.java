@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements  View.OnClickList
         expenseCard.setOnClickListener(this);
         transactionsCard.setOnClickListener(this);
         reportsCard.setOnClickListener(this);
-Log.i("Commit","NEW commit");
+Log.i("Commit","NEW commit is done");
     }
 
     @Override
