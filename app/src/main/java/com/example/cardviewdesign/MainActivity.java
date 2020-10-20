@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity implements  View.OnClickList
         expenseCard.setOnClickListener(this);
         transactionsCard.setOnClickListener(this);
         reportsCard.setOnClickListener(this);
-        Log.i("TAG","Succesfully developed");
 
     }
 
